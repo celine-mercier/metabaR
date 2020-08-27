@@ -39,3 +39,4 @@ Suggests: knitr,
     kableExtra,
     pkgdown
 VignetteBuilder: knitr
+BugReports: https://github.com/metabaRfactory/metabaR/issues
